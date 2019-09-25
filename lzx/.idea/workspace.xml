@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3f3a5e5-7f33-4c05-8265-382d1a8f132c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SuanFa/qqqqqqqqqqqqqqq.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +29,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../sppc-master-8c79e4f82878e5dbdceb0bce6b34b35a52fa58a8" />
+    <property name="last_opened_file_path" value="D:/sppcV1.1-pda/product_cloud_java/sppc" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.23382045" />
@@ -93,7 +94,7 @@
       <workItem from="1569374404068" duration="640000" />
       <workItem from="1569380436140" duration="641000" />
       <workItem from="1569381141319" duration="302000" />
-      <workItem from="1569381488165" duration="2064000" />
+      <workItem from="1569381488165" duration="2724000" />
     </task>
     <task id="LOCAL-00001" summary="66">
       <created>1569380931880</created>
@@ -137,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569383257022</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test">
+      <created>1569393841327</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569393841327</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
