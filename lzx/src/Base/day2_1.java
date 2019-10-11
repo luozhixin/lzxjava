@@ -8,6 +8,7 @@ public class day2_1 {
 		A A=new A();
 		@SuppressWarnings("resource")
 		Scanner i=new Scanner(System.in);
+		System.out.println(A.v);
 		first:while(true)
 		{
 			System.out.println("ÇëÊäÈë²Â²âÖµ£º");

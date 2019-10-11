@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3f3a5e5-7f33-4c05-8265-382d1a8f132c" name="Default Changelist" comment="" />
+    <list default="true" id="a3f3a5e5-7f33-4c05-8265-382d1a8f132c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Base/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Base/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Base/day2_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Base/day2_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/SuanFa/quicksort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SuanFa/quicksort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Base/day2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Base/day2_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SuanFa/quicksort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SuanFa/quicksort.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,10 +33,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../新建文件夹/spring-boot-doc" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.23382045" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -43,9 +51,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test1">
-    <configuration name="arrmax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SuanFa.arrmax" />
+  <component name="RunManager" selected="Application.SelectNsum1">
+    <configuration name="SelectNsum1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SuanFa.SelectNsum1" />
       <module name="lzx" />
       <extension name="coverage">
         <pattern>
@@ -57,12 +65,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SuanFa.test1" />
+    <configuration name="jzoy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SuanFa.jzoy" />
       <module name="lzx" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="SuanFa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="listnode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.listnode" />
+      <module name="lzx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SuanFa.solution" />
+      <module name="lzx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SuanFa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="twosum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.twosum" />
+      <module name="lzx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,8 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test1" />
-        <item itemvalue="Application.arrmax" />
+        <item itemvalue="Application.SelectNsum1" />
+        <item itemvalue="Application.jzoy" />
+        <item itemvalue="Application.solution" />
+        <item itemvalue="Application.listnode" />
+        <item itemvalue="Application.twosum" />
       </list>
     </recent_temporary>
   </component>
@@ -92,6 +142,12 @@
       <workItem from="1569380436140" duration="641000" />
       <workItem from="1569381141319" duration="302000" />
       <workItem from="1569381488165" duration="2859000" />
+      <workItem from="1569463494926" duration="2356000" />
+      <workItem from="1570500988381" duration="8106000" />
+      <workItem from="1570581837171" duration="683000" />
+      <workItem from="1570675280555" duration="39000" />
+      <workItem from="1570675363136" duration="4439000" />
+      <workItem from="1570760579554" duration="605000" />
     </task>
     <task id="LOCAL-00001" summary="66">
       <created>1569380931880</created>
@@ -149,7 +205,28 @@
       <option name="project" value="LOCAL" />
       <updated>1569395754073</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="test">
+      <created>1569463541719</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1569463541719</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test">
+      <created>1570503026290</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1570503026290</updated>
+    </task>
+    <task id="LOCAL-00011" summary="test">
+      <created>1570503055751</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1570503055751</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
