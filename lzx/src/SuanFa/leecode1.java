@@ -1,0 +1,31 @@
+package SuanFa;
+
+import java.util.Arrays;
+
+/**
+ * @Auther:zhixin.Luo
+ * @Date: 2019/10/12 09:26
+ * @Description:
+ */
+public class leecode1
+{
+    public static void main(String[] args) {
+        int [] nums ={3,2,4};
+        int target=6;
+        System.out.println(Arrays.toString(twoSum(nums,target)));
+    }
+    static int[] twoSum(int[] nums, int target) {
+        int []arr=new int[2];
+        for (int i = 0; i <nums.length ; i++) {
+            for (int j = i; j <nums.length ; j++) {
+                    if(nums[i]+nums[j]==target){
+                        arr[0]=i;
+                        arr[1]=j;
+                        return arr;
+                    }
+            }
+        }
+        return  null;
+    }
+
+}
