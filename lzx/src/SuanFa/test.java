@@ -1,9 +1,12 @@
 package SuanFa;
+import java.net.InetAddress;
+import java.net.UnknownHostException;
 import java.util.Arrays;
 import java.util.LinkedList;
 public class test{
 	static LinkedList<Integer> arrr=new LinkedList<Integer>();
-	public static void main(String[] args) {
+	public static void main(String[] args) throws UnknownHostException {
+		System.out.println(InetAddress.getLocalHost());
 		int [] [] arr= {{1,2,3,5,9},{13,42,4,5,6},{33,31,55,5,2},{33,31,55,5,5},{13,42,4,5,6}};
 		//int [] [] arr= {{1,2,3,5},{13,42,4,5},{33,31,55,5},{33,31,55,5}};
 		int l=arr.length-1;
