@@ -2,18 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3f3a5e5-7f33-4c05-8265-382d1a8f132c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/SuanFa/solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SuanFa/solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/SuanFa/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SuanFa/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SuanFa/solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SuanFa/solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SuanFa/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SuanFa/test.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,13 +60,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.yihuo">
-    <configuration name="leecode7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SuanFa.leecode7" />
+  <component name="RunManager" selected="Application.greedySnackMain">
+    <configuration name="greedySnackMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tcs.greedySnackMain" />
       <module name="lzx" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SuanFa.*" />
+          <option name="PATTERN" value="tcs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leecode9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SuanFa.leecode9" />
+    <configuration name="jsq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.jsq" />
       <module name="lzx" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SuanFa.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,21 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SuanFa.solution" />
-      <module name="lzx" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SuanFa.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SuanFa.test" />
+    <configuration name="leecode4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SuanFa.leecode4" />
       <module name="lzx" />
       <extension name="coverage">
         <pattern>
@@ -117,13 +113,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="zfcyxu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SuanFa.zfcyxu" />
+      <module name="lzx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SuanFa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.greedySnackMain" />
+        <item itemvalue="Application.jsq" />
+        <item itemvalue="Application.zfcyxu" />
+        <item itemvalue="Application.leecode4" />
         <item itemvalue="Application.yihuo" />
-        <item itemvalue="Application.solution" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.leecode9" />
-        <item itemvalue="Application.leecode7" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +165,11 @@
       <workItem from="1571384019676" duration="1323000" />
       <workItem from="1572309930890" duration="1194000" />
       <workItem from="1572332184891" duration="1501000" />
-      <workItem from="1572396144295" duration="611000" />
+      <workItem from="1572396144295" duration="5985000" />
+      <workItem from="1572483128012" duration="917000" />
+      <workItem from="1572597604230" duration="812000" />
+      <workItem from="1572939679492" duration="750000" />
+      <workItem from="1573631460050" duration="5108000" />
     </task>
     <task id="LOCAL-00001" summary="66">
       <created>1569380931880</created>
@@ -242,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571121106240</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="lecoode">
+      <created>1572396909333</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1572396909333</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
