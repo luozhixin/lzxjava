@@ -12,6 +12,8 @@ package SuanFa;/**
  **/
 public class yihuo {
     public static void main(String[] args) {
+        String s=Integer.toBinaryString(9^3);
+        System.out.println(s);
         System.out.println(Integer.toBinaryString(9^3));
     }
 }
