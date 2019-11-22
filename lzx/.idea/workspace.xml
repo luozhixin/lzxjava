@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a3f3a5e5-7f33-4c05-8265-382d1a8f132c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/META-INF/lzx.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SuanFa/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SuanFa/test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SuanFa/yihuo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SuanFa/yihuo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,9 +61,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test1">
-    <configuration name="DemoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SuanFa.DemoMain" />
+  <component name="RunManager" selected="Application.test">
+    <configuration name="arrmax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SuanFa.arrmax" />
       <module name="lzx" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arrmax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SuanFa.arrmax" />
+    <configuration name="kmptest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SuanFa.kmptest" />
       <module name="lzx" />
       <extension name="coverage">
         <pattern>
@@ -104,6 +101,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SuanFa.test" />
+      <module name="lzx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SuanFa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SuanFa.test1" />
       <module name="lzx" />
@@ -117,26 +127,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="yihuo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SuanFa.yihuo" />
-      <module name="lzx" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SuanFa.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.kmptest" />
         <item itemvalue="Application.test1" />
         <item itemvalue="Application.szys" />
         <item itemvalue="Application.arrmax" />
-        <item itemvalue="Application.yihuo" />
-        <item itemvalue="Application.DemoMain" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +172,10 @@
       <workItem from="1572939679492" duration="750000" />
       <workItem from="1573631460050" duration="5108000" />
       <workItem from="1573717508216" duration="4331000" />
-      <workItem from="1574212949465" duration="18943000" />
+      <workItem from="1574212949465" duration="19750000" />
+      <workItem from="1574319839858" duration="1123000" />
+      <workItem from="1574328537018" duration="1716000" />
+      <workItem from="1574386782478" duration="2003000" />
     </task>
     <task id="LOCAL-00001" summary="66">
       <created>1569380931880</created>
@@ -268,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572396909333</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="20191121">
+      <created>1574313332841</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1574313332841</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,6 +298,7 @@
     <MESSAGE value="66" />
     <MESSAGE value="test" />
     <MESSAGE value="lecoode" />
-    <option name="LAST_COMMIT_MESSAGE" value="lecoode" />
+    <MESSAGE value="20191121" />
+    <option name="LAST_COMMIT_MESSAGE" value="20191121" />
   </component>
 </project>
