@@ -6,13 +6,20 @@ import java.util.Arrays;
 import java.util.LinkedList;
 public class test1{
 	public static void main(String[] args){
-		Integer var1=new Integer(1);
-		Integer var2=var1;
-		doSomething(var2);
-		System.out.print(var1.intValue());
-		System.out.print(var1==var2);
+
+		System.out.println(dosomething1(-1261111459));
 	}
-	public static void doSomething(Integer integer){
-		integer=new Integer(2);
+	public static int  dosomething1(int num){
+		long l=0L;
+	while (num/10!=0||num%10!=0){
+		l=l*10+num%10;
+		System.out.println("lµÄÖµ£º"+l);
+		num=num/10;
+	}
+	if(l>Integer.MAX_VALUE||l<Integer.MIN_VALUE){
+		return 0;
+	}else{
+		return (int) l;
+	}
 	}
 }

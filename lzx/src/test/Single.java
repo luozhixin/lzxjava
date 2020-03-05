@@ -37,6 +37,7 @@ class Singleton {
 
 
 
+
 //静态内部类单例模式
 class SingletonTest {
     private SingletonTest(){
